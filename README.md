@@ -2,6 +2,7 @@
 
 * RA: 04722-039 / Kaique Rapatoni Santana
 * RA: 04722-035 / Éric D’Andrea Rapatão
+* RA: 04722-070 / Rafael Rogério Mariano Eduardo 
 
 Este projeto tem como objetivo realizar uma análise de sentimentos em português utilizando o algoritmo de aprendizado de máquina. Falando um pouco sobre o funcionamento da aplicação, o usuário vai digitar sua opinião sobre um determinado produto e o algoritmo vai classificar a frase como positiva, negativa ou neutra.
 
