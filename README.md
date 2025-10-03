@@ -1,4 +1,4 @@
-# Classificação de Frases
+# Análise de Frases
 
 * RA: 04722-039 / Kaique Rapatoni Santana
 * RA: 04722-035 / Éric D’Andrea Rapatão
