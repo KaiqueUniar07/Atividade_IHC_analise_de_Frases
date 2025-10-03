@@ -1,5 +1,8 @@
 # Classificação de Frases
 
+RA: 04722-039 / Kaique Rapatoni Santana
+RA: 04722-035 / Éric D’Andrea Rapatão
+
 Este projeto tem como objetivo realizar um análise de sentimentos em português utilizando o algoritmo de Aprendizado de máquina.
 Falando um pouco sobre o funcionamento da aplicação, o usuário vai digitar sua opinião sobre um determinado produto e o algoritmo
 vai classificar a frase como positiva, negativa ou neutra.
