@@ -9,16 +9,12 @@ Este projeto tem como objetivo realizar uma análise de sentimentos em portuguê
 ## Tecnologias
 
 * Python 
-* Scikit-learn
 * Algoritmo de aprendizado de máquina
 
 
 ## Explicação do Código
 
-O código funciona convertendo textos em dados numéricos, em que cada termo se torna um número que indica sua ocorrência,
-em seguida, o algoritmo aprende com diversas opiniões já pré-definidas como positivas, negativas e neutras. Quando o usuário 
-insere uma nova opinião, o sistema processa essa informação e o modelo prevê a chance de cada categoria, indicando a mais 
-provável.
+O código funciona convertendo textos em dados numéricos, em que cada termo se torna um número que indica sua ocorrência. Em seguida, o algoritmo aprende com diversas opiniões já pré-definidas como positivas, negativas e neutras. Quando o usuário insere uma nova frase, o sistema processa essa informação e o modelo prevê a chance de cada categoria, indicando uma categoria para a frase selecionada.
 
  
 
